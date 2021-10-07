@@ -1,0 +1,249 @@
+Timestamp,"Do you want to continue with the questionnaire? By selecting "" Yes "" you consent to provide information voluntarily. Do you agree?",Name,Age ,Gender,Height (in cm),Weight (in kg),State / Region,Have you ever been infected by Corona Virus?,What was your recovery time?,Did you suffer from any post-covid complications?,"If Yes, what were your complications? (Choose ""NA"" if your answer to the previous question was ""No"")",Have you been vaccinated?,"Which vaccine did you take? (Choose ""NA"" if your answer to the previous question was ""No"")","Did you suffer from any of the following after vaccination? (Choose ""NA"" if your answer to the previous question was ""NA"")","Recovery time for the above problem? (Choose ""NA"" if your answer to the previous question was ""No"")",Did you suffer from covid after vaccination?,"Recovery time for the above (Choose ""NA"" if your answer to the previous question was ""No"")",Do you smoke?,How often do you consume alcohol?,How often do you exercise?,What were the changes you made in your lifestyle during the Pandemic?
+8/24/2021 22:50:24,Yes,Gautam Jain ,20,Male,180,70,Delhi,Yes,2 weeks,Yes,Tiredness or fatigue,"Yes, 1st Dose",Covishield,"Fever, Headache",2 days,No,NA,Non Smoker,I do not drink,Alternate days,
+8/24/2021 22:51:34,Yes,Anmol Bansal,19,Male,175,65,Punjab,No,,,,"Yes, 1st Dose",Covishield,Muscle pain,2 days,No,NA,Non Smoker,I do not drink,Daily,
+8/24/2021 22:52:08,Yes,Shaurya Singh,20,Male,150,70,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Daily,
+8/24/2021 22:52:42,Yes,Aryan,19,Male,179,65,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covishield,"Fever, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Daily,
+8/24/2021 22:53:30,Yes,Priyanshu Singh,20,Male,182,70,Haryana,Yes,2 weeks,Yes,"Difficulty breathing or shortness of breath, Palpitations or Chest pain","Yes, both doses",Covaxin,"Fatigue, NA",1 day,No,NA,Non Smoker,Occassionally,Alternate days,Laude ka change hua hai
+8/24/2021 22:54:33,Yes,Daksh Sharma,20,Male,185,65,Delhi,No,,,,"Yes, both doses",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+8/24/2021 22:57:09,Yes,Shamsher,27,Male,169,75,Gujarat,Yes,3 weeks,No,NA,"Yes, 1st Dose",Covishield,"Fever, Fatigue",2 days,No,NA,Non Smoker,Occassionally,Daily,None
+8/24/2021 23:06:42,Yes,Girdhari Lal,55,Male,165,60,Chhattisgarh,Yes,3 weeks,Yes,Difficulty breathing or shortness of breath,"Yes, 1st Dose",Covishield,NA,NA,No,NA,Current Smoker,Occassionally,I do not exercise,
+8/24/2021 23:06:49,Yes,Ritin ,20,Male,176,69,Delhi,No,,,,"Yes, 1st Dose",Covishield,"Fever, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Daily,None
+8/24/2021 23:07:40,Yes,Shubham ,23,Male,180,70,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Headache",3 days,No,NA,Non Smoker,I do not drink,Alternate days,
+8/24/2021 23:10:26,Yes,Rhythm Sharma,20,Non-Binary,172,56,Haryana,Yes,2 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue","Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",5 days,No,3 weeks,Non Smoker,I do not drink,Once a week,Haan anmol se zyada baate shuru hogayi hai
+9/6/2021 20:53:05,Yes,Daksh,20,Male,185,65,Delhi,No,,,,"Yes, both doses",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,Once a week,
+9/6/2021 20:54:31,Yes,Daksh,20,Male,185,65,Delhi,Yes,3 weeks,No,NA,"Yes, both doses",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,Once a week,
+9/9/2021 22:19:21,Yes,daksh,20,Male,185,65,Delhi,No,,,,"Yes, both doses",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/9/2021 22:54:25,Yes,Malhar Sharma ,20,Female,153,45,Haryana,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue",2 days,No,NA,Non Smoker,I do not drink,Alternate days,
+9/9/2021 22:54:49,Yes,Shivalika,20,Female,175,62,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Muscle pain",1 day,No,NA,Non Smoker,Occassionally,Daily,Unhealthy lifestyle
+9/9/2021 22:55:12,Yes,Akansha Sharma,24,Female,150,49,Delhi,Yes,1 week,Yes,"Tiredness or fatigue, Hair loss","Yes, both doses",Covishield,"Headache, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,I do not exercise,Bought my work to online platform
+9/9/2021 22:57:56,Yes,Diksha Singh,20,Female,168,47,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/9/2021 22:58:10,Yes,Vinay Kumar Singh,20,Male,165,74,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/9/2021 22:58:23,Yes,Cheshta Dhingra,18,Female,162.5,55,Haryana,No,,,,"Yes, both doses",Covaxin,"Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Alternate days,
+9/9/2021 22:58:59,Yes,Nityanshee ,18,Female,162.56,48,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Headache, Muscle pain",more than 5 days,No,NA,Non Smoker,Occassionally,Daily,I started painting 
+9/9/2021 22:59:08,Yes,Sameer Bhasin,20,Male,175,72,Delhi,Yes,1 week,No,NA,"Yes, 1st Dose",Covishield,"Fever, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Once a week,
+9/9/2021 22:59:46,Yes,Udit shekhawat,20,Male,180,80,Haryana,No,,,,"Yes, both doses",Covishield,Headache,2 days,No,NA,Current Smoker,Occassionally,I do not exercise,Nothing much learned stock market
+9/9/2021 23:00:59,Yes,Akhil Aggarwal,32,Male,176,98,Delhi,Yes,3 weeks,Yes,"Tiredness or fatigue, Hair loss","Yes, 1st Dose",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Alternate days,
+9/9/2021 23:02:25,Yes,aditi sharma,31,Female,165,66,Delhi,Yes,3 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue, Palpitations or Chest pain, Hair loss, Hallucination, memory loss, ","Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,I do not exercise,Nothing coz i have to work like a dog
+9/9/2021 23:03:46,Yes,Supriya Sharma,26,Female,152,50,Delhi,No,,,,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Once a week,"I wash my hands more frequently now. Also, whenever I step outside my house I make sure to wear mask."
+9/9/2021 23:06:05,Yes,Naman Luthra,21,Male,177,64,Delhi,Yes,3 weeks,Yes,Hair loss,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,Occassionally,Alternate days,
+9/9/2021 23:06:09,Yes,Mehak Arora ,18,Female,155,56,Delhi,Yes,2 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue, Change in tastes ","Yes, both doses",Sputnik V,"Fever, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Alternate days,
+9/9/2021 23:07:12,Yes,Deepshikha Manna ,20,Female,161,60,Delhi,Yes,3 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue, Palpitations or Chest pain, Hair loss","Yes, 1st Dose",Covishield,"Fever, Headache",1 day,No,NA,Non Smoker,I do not drink,Alternate days,I started consuming more of healthy food and home cooked food. I reduced eating fast food.
+9/9/2021 23:08:02,Yes,Devansh katoch,21,Male,167,65,Delhi,Yes,3 weeks,Yes,Tiredness or fatigue,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",1 day,No,NA,Non Smoker,Occassionally,I do not exercise,"1.Breathing exercises 
+2.kept a healthy mindset
+3.followed a healthy diet 
+"
+9/9/2021 23:08:10,Yes,Navya Jain,18,Female,157,65,Haryana,No,,,,"Yes, both doses",Covaxin,Muscle pain,3 days,No,NA,Non Smoker,I do not drink,I do not exercise,Pandemic totally spoiled me.My sleep cycle was totally disturbed became more of a lazy person. Tried doing exercise for few days but gave up. Got addicted to Netflix and stuff so became more prone to bed. Also tried doing some new things but couldn't keep them for long. 
+9/9/2021 23:08:20,Yes,Arpita,18,Female,168,44,Delhi,No,,,,"Yes, both doses",Covaxin,"Fever, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/9/2021 23:09:11,Yes,Aastha,20,Female,160,49,Delhi,Yes,2 weeks,No,NA,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache",2 days,No,NA,Non Smoker,I do not drink,Once a week,
+9/9/2021 23:10:01,Yes,Aman Mishra,23,Male,155,69,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Headache, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,Alternate days,Switched to healthy food along with gym 
+9/9/2021 23:11:52,Yes,Kinshuk Kaura,20,Male,178,80,Delhi,Yes,2 weeks,No,NA,"Yes, 1st Dose",Covishield,"Fever, Muscle pain",2 days,No,NA,Non Smoker,Occassionally,Once a week,
+9/9/2021 23:14:47,Yes,Akanksha,19,Female,160,56,Delhi,No,,,,"Yes, both doses",Covaxin,No,NA,No,NA,Non Smoker,I do not drink,Alternate days,
+9/9/2021 23:15:21,Yes,Aakansha Priya,20,Female,166.116,45,Delhi,No,,,,"Yes, both doses",Covaxin,Muscle pain,2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/9/2021 23:15:25,Yes,Anirudh chaudhary,19,Male,182.5,76,Delhi,No,,,,"Yes, both doses",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Daily,I had to change my lifestyle a lot due to pandemic. My sleep schedule has been completely changed and online classes have been very hard.
+9/9/2021 23:15:38,Yes,Naman Bhatia,20,Male,183,76,Haryana,Yes,1 week,Yes,Tiredness or fatigue,"Yes, both doses",Covishield,"Fever, Fatigue",1 day,No,NA,Non Smoker,Occassionally,Daily,
+9/9/2021 23:16:37,Yes,Ishant,20,Male,170,60,Haryana,No,,,,"Yes, 1st Dose",Covishield,"Fatigue, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/9/2021 23:17:32,Yes,Lakshya kumar,19,Male,182,75,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Headache, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,Daily,Sanitized everything that comes home
+9/9/2021 23:19:03,Yes,Priyanshu Singh,20,Male,182,79,Haryana,Yes,2 weeks,No,NA,"Yes, both doses",Covaxin,No,NA,No,NA,Non Smoker,Occassionally,Alternate days,None
+9/9/2021 23:19:44,Yes,Vidushi Taneja ,19,Female,161,52,Uttar Pradesh,Yes,2 weeks,No,NA,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,Often,Alternate days,"Exercise, meditation, healthy food and drinks, supplements for vitamins, minerals and overall body health. "
+9/9/2021 23:20:10,Yes,Sudiksha Raheja,20,Female,152.7,56,Haryana,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,Occassionally,Daily,
+9/9/2021 23:20:26,Yes,Divyansh Sharma,18,Male,185,66,Delhi,Yes,2 weeks,No,"Difficulty breathing or shortness of breath, Tiredness or fatigue","Yes, 1st Dose",Covishield,"Fever, Fatigue, Muscle pain",1 day,"Yes, after 1st dose",NA,Non Smoker,I do not drink,Alternate days,.
+9/9/2021 23:22:25,Yes,Vansh Tevatia,18,Male,188,75,Haryana,Yes,2 weeks,No,NA,"Yes, both doses",Covaxin,No,NA,No,NA,Non Smoker,I do not drink,Daily,
+9/9/2021 23:22:51,Yes,Vivek,20,Male,185,75,Uttar Pradesh,Yes,1 week,No,NA,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Daily,Nutritious food consumption
+9/9/2021 23:25:13,Yes,Shreya,21,Female,155,43,Uttar Pradesh,No,,,,No,NA,NA,NA,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/9/2021 23:30:11,Yes,Falguni Kaushik,19,Female,165.1,70,Bihar,No,,,,"Yes, both doses",Covishield,Fever,2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/9/2021 23:30:53,Yes,Nupur,36,Female,164,68,Haryana,No,,,,"Yes, both doses",Covaxin,"Fatigue, Muscle pain",2 days,No,NA,Non Smoker,Occassionally,Once a week,"Active and persistent to my routine, lot of physical efforts and work. Meeting animals to gain immunity"
+9/9/2021 23:32:09,Yes,Aman Gupta,20,Male,175,65,Uttar Pradesh,Yes,3 weeks,No,NA,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Once a week,
+9/9/2021 23:34:13,Yes,Anshika Jain,19,Female,154,55,Delhi,Yes,1 week,No,NA,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/9/2021 23:44:27,Yes,Drishti ,22,Female,169,59,Delhi,No,,,,"Yes, 1st Dose",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,Once a week,how to give time to yourself
+9/9/2021 23:45:04,Yes,Priyanshi Trigunayat,19,Female,152,56,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Once a week,
+9/9/2021 23:46:29,Yes,Hridya Dham,21,Male,182.88,68,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covishield,"Fever, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,I do not exercise,"Wearing mask every time I go out, wash my hands and change my clothes after coming back home."
+9/9/2021 23:56:06,Yes,Nayan Tuteja,20,Male,188,87,Delhi,No,,,,"Yes, both doses",Covishield,No,NA,No,NA,Current Smoker,Occassionally,Daily,
+9/9/2021 23:59:15,Yes,Subhankar Nanda,20,Male,174,90,Odisha,Yes,more than 4 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue, Hair loss","Yes, both doses",Covaxin,No,NA,No,NA,Non Smoker,Occassionally,Daily,
+9/10/2021 0:05:35,Yes,Tushar Jha,20,Male,173,63,Delhi,No,,,,"Yes, both doses",Covishield,"Fatigue, Headache",1 day,"Yes, after 1st dose",NA,Non Smoker,Occassionally,Daily,Nothing
+9/10/2021 0:06:35,No,,,,,,,,,,,,,,,,,,,,
+9/10/2021 0:09:09,Yes,Geetika Singh,19,Female,162.56,53,Delhi,No,,,,"Yes, 1st Dose",Covishield,No,NA,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/10/2021 0:09:28,Yes,Kunal Khandelwal,20,Male,165,85,Delhi,No,,,,"Yes, 1st Dose",Covishield,Fatigue,1 day,No,NA,Non Smoker,Occassionally,I do not exercise,
+9/10/2021 0:09:50,Yes,Rohit,18,LGBT,168,68,Assam,Yes,more than 4 weeks,Yes,"Nightfall, Loss of sax drive etc","Yes, 1st Dose",Covishield,Diarrhoea,5 days,No,1 weeks,Non Smoker,Often,Alternate days,Masturbating regularly
+9/10/2021 0:14:23,Yes,Arun Yadav,31,Male,172,73,Haryana,Yes,1 week,Yes,"Palpitations or Chest pain, Hair loss",No,NA,NA,NA,No,NA,Non Smoker,I do not drink,Alternate days,
+9/10/2021 0:27:13,Yes,Flemin Thomas,21,Male,175,93,Delhi,No,,,,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Daily,-
+9/10/2021 0:34:54,Yes,Mohan Kaushik,18,Male,178,60,Haryana,No,,,,"Yes, 1st Dose",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Daily,Regular exercision and daily workout. 
+9/10/2021 0:44:56,Yes,Sarthak Agarwal ,20,Male,158,81,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,Alternate days,Started eating healthy food. 
+9/10/2021 1:00:29,Yes,Yogesh,22,Male,160,50,Haryana,No,,,,"Yes, both doses",Covishield,No,NA,No,NA,Non Smoker,I do not drink,I do not exercise,nothing
+9/10/2021 1:01:36,Yes,Divyansh,19,Male,181,70,Uttar Pradesh,Yes,1 week,No,NA,"Yes, both doses",Covishield,"Fever, Headache",1 day,No,NA,Non Smoker,I do not drink,Daily,"Talking to friends often, Overthinking, Exercising, and reading Books"
+9/10/2021 1:03:50,Yes,shubh,21,Male,175,60,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",1 day,"Yes, after 1st dose",NA,Non Smoker,I do not drink,Daily,ate healthy food
+9/10/2021 1:07:08,Yes,Rahul kumar,20,Male,180,95,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covishield,Muscle pain,1 day,No,NA,Non Smoker,I do not drink,Daily,Hardwork
+9/10/2021 1:11:29,Yes,Sanchi Gangwar ,20,Female,157.5,51,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",more than 5 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/10/2021 1:31:31,Yes,Bhavya Kalra,19,Female,152,53,Delhi,Yes,3 weeks,No,NA,"Yes, 1st Dose",Covishield,Fever,5 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/10/2021 4:51:34,Yes,Sakshi Singh,18,Female,160,50,Uttarakhand,No,,,,"Yes, 1st Dose",Covishield,Headache,1 day,No,NA,Non Smoker,I do not drink,Daily,"1. Included doing breathing exercises and meditation regularly. 
+2. Made sure to consume all the necessary nutrients."
+9/10/2021 6:57:43,Yes,Sanya Ganjoo,17,Female,171,65,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Once a week,
+9/10/2021 7:19:40,Yes,Naman,20,Male,160,70,Delhi,No,,,,"Yes, 1st Dose",Covishield,"Fever, Headache",1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/10/2021 7:33:10,Yes,Naveen kumar,20,Male,170,72,Haryana,No,,,,"Yes, both doses",Covaxin,"Fever, Fatigue, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Daily,No comment
+9/10/2021 7:50:24,Yes,Monica Ganjoo ,43,Female,159,58,Uttar Pradesh,Yes,1 week,Yes,"Tiredness or fatigue, Hair loss, Acid Reflux and Anxiety","Yes, both doses",Covishield,"Fever, Fatigue, Muscle pain",1 day,No,NA,Non Smoker,Occassionally,I do not exercise,Eating healthy food but exercise routine got disturbed
+9/10/2021 8:19:00,Yes,Tripti,18,Female,156,42,Haryana,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/10/2021 8:37:18,Yes,Rishika Singh,23,Female,160,56,Maharashtra,Yes,2 weeks,Yes,Hair loss,"Yes, both doses",Covishield,"Fever, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/10/2021 9:12:01,Yes,Shikha,27,Female,156,55,Delhi,Yes,2 weeks,Yes,Tiredness or fatigue,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache",1 day,No,NA,Non Smoker,Occassionally,Daily,
+9/10/2021 9:24:29,Yes,Sanyam Singhal,20,Male,170,80,Delhi,Yes,2 weeks,No,NA,"Yes, both doses",Covishield,"Fever, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Daily,
+9/10/2021 9:38:33,Yes,Lavanya,19,Female,160,59,Delhi,No,,,,"Yes, both doses",Covaxin,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,Occassionally,I do not exercise,I started exercising only very recently
+9/10/2021 9:50:32,Yes,Sakhi,25,Female,156,60,Delhi,Yes,4 weeks,Yes,"Tiredness or fatigue, Hair loss","Yes, both doses",Covishield,Fever,3 days,No,NA,Non Smoker,Occassionally,Once a week,
+9/10/2021 9:52:09,Yes,Harsh Sharma,19,Male,175,72.5,Rajasthan,No,,,,"Yes, both doses",Covaxin,No,NA,No,NA,Non Smoker,I do not drink,Daily,Everything changes..
+9/10/2021 10:00:30,Yes,Basudev Maity,39,Male,180,94,West Bengal,No,,,,"Yes, 1st Dose",Covishield,Muscle pain,1 day,No,NA,Current Smoker,Regularly,Once a week,Social distancing
+9/10/2021 10:10:16,No,,,,,,,,,,,,,,,,,,,,
+9/10/2021 10:13:48,Yes,Lukes,26,Male,188,69,Haryana,No,,,,"Yes, both doses",Sputnik V,No,NA,No,NA,Current Smoker,Often,Daily,no changes. It's a lonely world.
+9/10/2021 10:17:42,Yes,Sudipan,19,Male,169,59,Haryana,No,,,,"Yes, 1st Dose",Covishield,"Fever, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Daily,"working out at home, watching movies at home, attending college from home"
+9/10/2021 10:27:37,Yes,Amita Monga,51,Female,165,90,Delhi,No,,,,"Yes, both doses",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Alternate days,No chages
+9/10/2021 10:30:30,Yes,Kumari Sweta Tiwari ,19,Female,156,45,Bihar,No,,,,"Yes, 1st Dose",Covishield,"Fever, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Daily,I started doing exercise daily and also eating fruits. 
+9/10/2021 10:43:30,Yes,Sonal,20,Female,150,53,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Muscle pain",more than 5 days,No,NA,Non Smoker,I do not drink,Alternate days,
+9/10/2021 10:50:47,Yes,Raghav,22,Male,171,60,Haryana,Yes,1 week,No,Tiredness or fatigue,"Yes, 1st Dose",Covishield,"Fever, Headache",2 days,No,1 weeks,Non Smoker,I do not drink,Once a week,
+9/10/2021 10:54:39,Yes,Srishti singhal,19,Female,170,63,Delhi,Yes,1 week,Yes,Tiredness or fatigue,"Yes, both doses",Covaxin,No,NA,No,NA,Non Smoker,I do not drink,I do not exercise,none
+9/10/2021 11:02:26,Yes,Prachi Jain,19,Female,161.5,45,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covishield,Muscle pain,2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/10/2021 11:12:24,Yes,Rishita agarwal,20,Female,157.48,56,Uttarakhand,No,,,,"Yes, 1st Dose",Covishield,Headache,1 day,No,NA,Non Smoker,I do not drink,Daily,
+9/10/2021 11:34:17,Yes,Pragya,21,Female,155,48,Uttarakhand,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/10/2021 11:34:38,Yes,Pradyumn Bharani ,20,Male,182,78,Maharashtra,Yes,1 week,Yes,Tiredness or fatigue,"Yes, 1st Dose",Covaxin,No,NA,No,NA,Non Smoker,I do not drink,Daily,
+9/10/2021 11:49:07,Yes,Kunal Choudhary,20,Male,168,70,West Bengal,No,,,,"Yes, both doses",Covishield,NA,NA,No,NA,Non Smoker,Occassionally,Once a week,Reduce mental stress because I don't have to go to college. 
+9/10/2021 11:52:44,Yes,Lavisha Johar,20,Female,158,49,Delhi,No,,,,No,NA,NA,NA,No,NA,Non Smoker,I do not drink,Daily,
+9/10/2021 11:53:38,Yes,Lavisha Johar,20,Female,158,49,Delhi,No,,,,No,NA,NA,NA,No,NA,Non Smoker,I do not drink,Alternate days,
+9/10/2021 11:59:09,Yes,Gaurav Taparia,21,Male,163,60,Rajasthan,No,,,,"Yes, both doses",Covaxin,No,NA,No,NA,Non Smoker,Occassionally,Daily,
+9/10/2021 12:18:24,Yes,Shivansh,19,Male,186,80,Delhi,No,,,,"Yes, both doses",Covishield,Muscle pain,2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/10/2021 12:41:47,Yes,Priya,24,Female,144,58,Uttar Pradesh,Yes,1 week,Yes,Hair loss,"Yes, both doses",Covaxin,"Fever, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,I do not exercise,N/A
+9/10/2021 13:17:03,Yes,Neeraj Agrawal,43,Male,167.5,59,Delhi,Yes,3 weeks,No,NA,"Yes, both doses",Covaxin,NA,NA,No,NA,Non Smoker,I do not drink,Daily,Changing life style by not taking much stress related to my work.
+9/10/2021 14:03:08,Yes,Hansika,20,Female,163,60,Uttar Pradesh,Yes,2 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue, Hair loss, Change in sense of smell and taste","Yes, 1st Dose",Covishield,"Fever, Muscle pain",2 days,No,NA,Non Smoker,Occassionally,I do not exercise,
+9/10/2021 14:28:38,Yes,Shreya ,23,Female,172,75,West Bengal,No,,,,"Yes, both doses",Covishield,"Fever, Muscle pain",3 days,No,NA,Non Smoker,Occassionally,Alternate days,Started yoga
+9/10/2021 14:48:10,Yes,Ishita,20,Female,154,53,Delhi,No,,,,"Yes, 1st Dose",Covishield,"Fever, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Alternate days,
+9/10/2021 16:06:44,Yes,Aditya Vikram Singh,19,Male,169,78,Uttar Pradesh,Yes,2 weeks,No,NA,"Yes, 1st Dose",Covaxin,Muscle pain,3 days,No,NA,Non Smoker,I do not drink,Once a week,
+9/10/2021 17:09:02,Yes,GKSHARMA,60,Male,160,80,Delhi,No,,,,"Yes, both doses",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Daily,No
+9/10/2021 17:10:52,Yes,Sarira Sharma,55,Female,155,75,Delhi,No,,,,"Yes, both doses",Covaxin,No,NA,No,NA,Non Smoker,I do not drink,Alternate days,No
+9/10/2021 17:11:07,Yes,Harshita vashisht ,21,Female,162,52,Delhi,No,,,,"Yes, 1st Dose",Covishield,"Fever, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Alternate days,"Better eating habits, daily exercises,spending more time with family and doing indoor activities "
+9/10/2021 17:13:12,Yes,Vikram Singh Bisht,49,Male,158,79,Uttar Pradesh,No,,,,"Yes, both doses",Covaxin,Fever,2 days,No,1 weeks,Current Smoker,I do not drink,Alternate days,No
+9/10/2021 18:50:24,Yes,Manav Sharma,18,Male,182,54,Delhi,Yes,2 weeks,No,NA,"Yes, 1st Dose",Covishield,"Fever, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Daily,Laziness
+9/11/2021 0:02:14,Yes,Dr. Aastha Chugh,29,Female,153,68,Delhi,Yes,1 week,Yes,"Hair loss, Menstrual cycle disturbance ","Yes, 1st Dose",Covishield,"Fever, Fatigue, Diarrhoea",1 day,No,NA,Non Smoker,I do not drink,Daily,Taking care of both mental and physical health 
+9/11/2021 0:16:03,Yes,Abhishek Jain,28,Male,177,94,Delhi,Yes,1 week,Yes,Tiredness or fatigue,"Yes, 1st Dose",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,Alternate days,
+9/11/2021 1:15:57,Yes,Shikhar,19,Male,172,70,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Muscle pain",1 day,No,NA,Non Smoker,Occassionally,Daily,Fitness
+9/11/2021 9:59:49,Yes,Pragya Mattas ,19,Female,162,60,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covishield,"Fever, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Alternate days,Have reduced the consumption of junk food by a large margin(as compared to that of pre covid time). Haven't made any other change as such.
+9/11/2021 10:56:50,Yes,Saumya,20,Female,154,65,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Headache, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,Alternate days,
+9/11/2021 17:23:41,Yes,Sngv,19,Male,178,52,Haryana,No,,,,"Yes, both doses",Covishield,"Fever, Muscle pain",NA,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/11/2021 17:36:24,No,,,,,,,,,,,,,,,,,,,,
+9/11/2021 19:42:14,Yes,PRAHLAD SHANKAR VERMA,20,Male,177,83,Maharashtra,No,,,,"Yes, both doses",Covaxin,Muscle pain,2 days,No,NA,Non Smoker,I do not drink,Daily,Exercise and tracking junk food intake
+9/11/2021 20:03:17,Yes,Armaan ajeet,20,Male,175,52,Uttar Pradesh,Yes,1 week,No,NA,"Yes, 1st Dose",Covishield,"Fever, Headache",2 days,No,NA,Non Smoker,I do not drink,Once a week,"Sitting whole day doing online classes. No exercise, walk etc
+"
+9/11/2021 20:28:30,Yes,Aella Arun Kumar,22,Male,167,50,Haryana,No,,,,"Yes, 1st Dose",Covishield,"Fever, Headache, Muscle pain",2 days,"Yes, after 1st dose",1 weeks,Non Smoker,I do not drink,Once a week,No change
+9/11/2021 20:36:33,Yes,Praveen,23,Male,173,82,Haryana,No,,,,"Yes, 1st Dose",Covishield,Fever,NA,No,NA,Non Smoker,I do not drink,Daily,Too lazy
+9/11/2021 20:48:04,Yes,Jitender singh,19,Male,170,68,Haryana,No,,,,"Yes, 1st Dose",Covishield,No,3 days,No,1 weeks,Non Smoker,I do not drink,Daily,I Loss My 18 Kg Weight & Living a Better life now 
+9/11/2021 20:53:58,Yes,Vishakha,21,Female,160,45,Haryana,No,,,,"Yes, 1st Dose",Covaxin,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Once a week,"Focussing on my mental health, started to do meditation, light exercises, staying hydrated properly and giving rest to myself whenever I felt low on energy "
+9/11/2021 20:58:31,Yes,Akash,19,Male,165,47,Haryana,No,,,,"Yes, 1st Dose",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,Daily,
+9/12/2021 11:21:37,Yes,Rhea Agarwal,19,Female,155,55,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Daily,Increased the frequency of physical activities.
+9/12/2021 11:27:33,Yes,Steve Richards,20,Male,172,80,Tamil Nadu,No,,,,"Yes, 1st Dose",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Alternate days,I went from working out everyday to stop working out at all.
+9/12/2021 11:32:38,Yes,Hemant Walia,20,Male,164,61,Rajasthan,No,,,,"Yes, 1st Dose",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Daily,Nothing 
+9/12/2021 11:43:18,Yes,Nikhil maurya,19,Male,179,70,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Headache",1 day,No,NA,Non Smoker,I do not drink,I do not exercise,Nothing much
+9/12/2021 11:53:29,Yes,roshan sharma,23,Male,167.64,56,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Alternate days,mask roj pahen ne laga hoon 😅
+9/12/2021 11:59:39,Yes,Rohit Bhalla,22,Male,176,62,Delhi,No,,,,"Yes, both doses",Covishield,"Fatigue, Headache, Muscle pain",1 day,"Yes, after 1st dose",1 weeks,Non Smoker,I do not drink,Daily,Healthy routine
+9/12/2021 12:10:54,No,,,,,,,,,,,,,,,,,,,,
+9/12/2021 12:20:28,Yes,Jahnavi Tripathi,19,Female,160,54,Uttar Pradesh,Yes,2 weeks,Yes,"Tiredness or fatigue, Hair loss","Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Once a week,
+9/12/2021 12:21:15,Yes,Arsh,20,Male,180,77,Uttar Pradesh,No,,,,"Yes, both doses",Covaxin,Fatigue,1 day,No,NA,Non Smoker,Occassionally,Daily,Nothing
+9/12/2021 12:27:53,Yes,Shubham,20,Male,180,85,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Daily,
+9/12/2021 13:29:11,Yes,Adarsh Punia,21,Male,180,67,Delhi,No,,,,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",3 days,"Yes, after 1st dose",NA,Non Smoker,I do not drink,Alternate days,Became lethargic 
+9/12/2021 13:51:53,Yes,Isha,20,Female,158,40,Delhi,Yes,3 weeks,Yes,Tiredness or fatigue,No,NA,NA,NA,No,NA,Non Smoker,I do not drink,Alternate days,"Excercise more
+Drinking more water
+Not laying on bed much
+"
+9/12/2021 14:02:45,Yes,Vrinda Rawal,19,Female,159.5,40,Uttarakhand,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Alternate days,
+9/12/2021 14:04:30,Yes,Rohit,20,Male,177,57,Uttarakhand,No,,,,"Yes, 1st Dose",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,Daily,Changes I made: Healthy food + regular workout +proper sleeping schedule
+9/12/2021 14:15:26,Yes,Aviral Yadav,21,Male,179,62,Uttar Pradesh,Yes,1 week,No,NA,"Yes, both doses",Covaxin,Muscle pain,2 days,No,NA,Non Smoker,I do not drink,Daily,"wear mask
+eating out less
+fewer public appearances
+improved nutrients intake"
+9/12/2021 14:29:29,Yes,Prachi Jain,20,Female,155,52,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covishield,No,NA,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/12/2021 17:44:29,Yes,Amisha Singh,21,Female,167,43,Delhi,Yes,3 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue, Hair loss, Still taste is not recovered even after 5 months.. suffering from parosmia after covid","Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain, Diarrhoea",2 days,No,NA,Non Smoker,I do not drink,I do not exercise,"Tried Yoga but due to other health related issues, had to stop it."
+9/12/2021 17:54:13,Yes,Saniya Asthana,19,Female,163,52,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,I do not exercise,Started eating healthier I'd say.
+9/12/2021 18:40:02,Yes,Ankit,19,Male,175,87,Delhi,No,,,,"Yes, 1st Dose",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Once a week,
+9/12/2021 18:41:58,Yes,Samarth Jain,20,Male,178,63,Delhi,Yes,1 week,No,NA,"Yes, both doses",Covishield,"Fever, Muscle pain",1 day,No,NA,Non Smoker,Occassionally,Daily,
+9/12/2021 20:06:22,Yes,Himanshi,20,Female,165,59,Delhi,No,,,,"Yes, both doses",Covishield,Fever,2 days,No,NA,Non Smoker,I do not drink,I do not exercise,Not much .. just with the work
+9/12/2021 20:30:50,Yes,Dhruv,21,Male,176,70,Delhi,Yes,2 weeks,Yes,"Tiredness or fatigue, Hair loss","Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",3 days,No,NA,Non Smoker,Often,Alternate days,
+9/12/2021 23:45:45,Yes,Dhruv gupta,19,Male,170,72,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,Fever,1 day,No,NA,Current Smoker,Occassionally,Daily,Helthy lifestyle 
+9/13/2021 10:21:29,Yes,Likhit,20,Male,170,69,Delhi,No,,,,"Yes, both doses",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/13/2021 13:55:28,Yes,Kabir,21,Male,178,80,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache",1 day,No,NA,Non Smoker,Occassionally,Alternate days,
+9/14/2021 1:03:46,Yes,Shikhar,22,Male,170,84,Delhi,Yes,3 weeks,Yes,"Sore throat, cough and cold ","Yes, both doses",Covishield,"Fever, Fatigue",2 days,No,NA,Current Smoker,Occassionally,Once a week,Taking a good 6-8hrs sleep 
+9/15/2021 12:49:11,Yes,Ashish,22,Male,179,74,Delhi,No,,,,"Yes, both doses",Covaxin,Fatigue,1 day,No,NA,Non Smoker,I do not drink,Once a week,
+9/15/2021 13:22:41,Yes,Deepika,24,Female,162,72,Delhi,Yes,4 weeks,Yes,Tiredness or fatigue,"Yes, both doses",Covaxin,No,NA,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/17/2021 22:23:03,Yes,Neha,20,Female,160,60,Haryana,No,,,,"Yes, both doses",Covishield,Muscle pain,4 days,No,NA,Non Smoker,I do not drink,Daily,Health improve
+9/17/2021 22:29:11,Yes,Jitendra,21,Male,153,65,Rajasthan,No,,,,"Yes, both doses",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Once a week,Only sleeping
+9/17/2021 22:31:12,Yes,Vikas,20,Male,168,65,Rajasthan,No,,,,"Yes, both doses",Covishield,Fever,2 days,No,NA,Non Smoker,I do not drink,Daily,
+9/17/2021 22:32:14,Yes,Priyanshu ,20,Male,178,53,Haryana,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Muscle pain",more than 5 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/17/2021 22:33:27,Yes,Sarthak,19,Male,178,80,Delhi,Yes,2 weeks,No,NA,"Yes, both doses",Covishield,"Fever, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/17/2021 22:36:28,Yes,Sonu Tanwar,20,Male,178,80,Haryana,Yes,2 weeks,No,NA,"Yes, both doses",Covishield,Muscle pain,more than 5 days,"Yes, after 2nd dose",2 weeks,Non Smoker,I do not drink,Alternate days,I started studying 👀
+9/17/2021 23:20:51,Yes,Shreya,22,Female,157.48,44,Uttar Pradesh,Yes,1 week,No,NA,"Yes, both doses",Covishield,No,NA,"Yes, after 2nd dose",1 weeks,Non Smoker,I do not drink,I do not exercise,Nothing much
+9/18/2021 0:21:33,Yes,Priyansh sharma ,20,Male,177,60,Rajasthan,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue",3 days,No,NA,Non Smoker,I do not drink,Daily,I exercise daily 
+9/18/2021 0:43:38,Yes,Radheshyam,22,Male,174,62,Rajasthan,No,,,,"Yes, both doses",Covishield,Muscle pain,2 days,No,NA,Non Smoker,I do not drink,I do not exercise,Enjoy with family and time management
+9/18/2021 9:35:19,Yes,Vikash sharma ,21,Male,180,67,Rajasthan,No,,,,"Yes, 1st Dose",Covishield,Fatigue,2 days,No,NA,Non Smoker,I do not drink,Daily,
+9/18/2021 15:12:14,Yes,Tejasvini ,19,Female,154,49,Rajasthan,No,,,,"Yes, both doses",Covaxin,Muscle pain,3 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/18/2021 18:34:35,Yes,Rishabh Singh ,18,Male,182,68,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/18/2021 22:09:03,Yes,Vanshika Yadav,19,Female,170.18,68,Haryana,No,,,,"Yes, both doses",Sputnik V,Fever,1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/18/2021 22:31:36,Yes,Hrishik Kaul ,20,Male,173,66,Haryana,No,,,,"Yes, both doses",Covishield,Fatigue,1 day,No,NA,Current Smoker,Occassionally,Daily,I don't know 
+9/18/2021 23:08:03,Yes,Mohini Jha,20,Female,147,46,Haryana,No,,,,"Yes, 1st Dose",Covishield,"Fever, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/18/2021 23:10:15,No,,,,,,,,,,,,,,,,,,,,
+9/18/2021 23:11:34,Yes,Mehul,21,Male,167,60,Haryana,No,,,,"Yes, both doses",Covaxin,NA,NA,No,NA,Non Smoker,I do not drink,Daily,
+9/18/2021 23:12:50,Yes,Keshav Yadav,20,Male,180,70,Haryana,No,,,,"Yes, both doses",Covishield,No,NA,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/18/2021 23:30:05,Yes,Neha Saini,20,Female,161,58,Haryana,No,,,,"Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",more than 5 days,No,NA,Non Smoker,Occassionally,Alternate days,"Daily exercises, Art, Netflix shows, Self pampering"
+9/18/2021 23:34:33,Yes,Manish Kumar Sharma ,20,Male,162,70,Haryana,No,,,,"Yes, 1st Dose",Covaxin,No,NA,No,NA,Non Smoker,I do not drink,Daily,
+9/18/2021 23:41:21,Yes,NAMIT KUMAR ,19,Male,177,63,Haryana,Yes,3 weeks,Yes,"Tiredness or fatigue, Hair loss","Yes, 1st Dose",Covishield,"Fever, Fatigue, Headache, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,Daily,
+9/18/2021 23:45:31,Yes,Arpit Chauhan ,19,Male,180.34,80,Delhi,No,,,,"Yes, both doses",Covaxin,No,NA,No,NA,Non Smoker,I do not drink,Once a week,Sleep and  eat more🤣
+9/19/2021 0:00:04,Yes,Shrey Bisht,20,Male,177,64,Haryana,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Muscle pain",4 days,No,NA,Non Smoker,I do not drink,Daily,Addicted to laziness but after i change my habit and keep active
+9/19/2021 0:18:58,Yes,Anmol,20,Male,170.18,68,Himachal Pradesh,No,,,,"Yes, both doses",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Daily,
+9/19/2021 8:55:59,Yes,Rishika Sharma,21,Female,179,67,Haryana,No,,,,"Yes, both doses",Sputnik V,"Fever, Fatigue, Headache, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,Daily,
+9/19/2021 14:35:34,Yes,Sunaina,20,Female,157,42,Haryana,No,,,,"Yes, 1st Dose",Covishield,"Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/20/2021 10:08:38,Yes,Apaar,20,Male,180,65,Delhi,Yes,3 weeks,No,NA,"Yes, both doses",Covishield,"Fever, Muscle pain",3 days,No,NA,Current Smoker,Often,Alternate days,No physical activity as such
+9/22/2021 5:51:23,Yes,Kanishk singh,19,Male,176,68,Haryana,No,,,,"Yes, 1st Dose",Covishield,"Fever, Headache",2 days,No,NA,Current Smoker,Regularly,Alternate days,I reduced masturbation
+9/26/2021 20:46:48,Yes,Anmol,19,Male,165,70,Punjab,No,,,,"Yes, both doses",Covishield,Muscle pain,3 days,No,NA,Non Smoker,I do not drink,Daily,
+9/26/2021 20:48:22,Yes,Moksh Bansal,17,Male,176,58,Punjab,No,,,,No,NA,NA,NA,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/27/2021 11:45:43,Yes,Jatin goyal,20,Male,185,79,Punjab,No,,,,"Yes, both doses",Covaxin,Muscle pain,1 day,No,NA,Non Smoker,I do not drink,Alternate days,No change
+9/27/2021 17:09:27,Yes,Sanjay jain ,45,Male,179,86,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Headache, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,Once a week,
+9/27/2021 17:10:35,Yes,Poonam jain ,43,Female,170,67,Delhi,No,,,,"Yes, both doses",Covaxin,"Fever, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Once a week,
+9/27/2021 17:11:39,Yes,Shubham jain ,22,Male,180,76,Madhya Pradesh,No,,,,"Yes, both doses",Covaxin,"Fever, Headache",3 days,No,NA,Non Smoker,I do not drink,Alternate days,
+9/27/2021 17:12:48,Yes,Sushil jain ,51,Male,172,90,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Headache, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,Alternate days,
+9/27/2021 17:13:45,Yes,Saroj jain ,49,Female,167,76,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Once a week,
+9/27/2021 17:14:43,Yes,Rishabh jain ,23,Male,173,75,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Headache, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,Alternate days,
+9/27/2021 17:15:37,Yes,Udit jain ,22,Male,178,85,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Headache, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,Daily,
+9/27/2021 17:16:52,Yes,Nikhil gupta ,29,Male,176,75,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Muscle pain",3 days,No,NA,Non Smoker,Occassionally,Alternate days,
+9/27/2021 20:57:06,Yes,Mudit Arora,21,Male,167.6,60,Uttarakhand,Yes,2 weeks,Yes,Tiredness or fatigue,"Yes, 1st Dose",Covishield,"Fever, Muscle pain",3 days,No,NA,Non Smoker,I do not drink,Daily,Exercising daily
+9/30/2021 22:55:25,Yes,Harsh ,20,Male,178,77,Delhi,No,,,,"Yes, both doses",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,Daily,Increased Mental calmness 
+9/30/2021 23:00:32,Yes,Gaurav Kumar,19,Male,173,60,Delhi,Yes,2 weeks,No,NA,"Yes, both doses",Covishield,"Fever, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Daily,Avoid social gatherings and gym i do my exercise at homes
+9/30/2021 23:05:17,Yes,Mansi,17,Female,165,45,Delhi,No,,,,No,NA,NA,NA,No,NA,Non Smoker,I do not drink,Alternate days,
+9/30/2021 23:06:27,Yes,Aditya ,20,Male,168,50,Delhi,No,,,,"Yes, both doses",Covaxin,"Headache, Muscle pain",1 day,No,NA,Non Smoker,I do not drink,Alternate days,Unemployment. Etc I didn't talk about ..
+9/30/2021 23:08:11,Yes,Aayushi,19,Female,163,52,Delhi,Yes,3 weeks,No,NA,"Yes, 1st Dose",Covishield,"Fever, Headache",NA,No,NA,Non Smoker,I do not drink,Daily,
+9/30/2021 23:12:11,Yes,Aman saini,20,Male,179,71,Delhi,No,,,,"Yes, both doses",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Daily,
+9/30/2021 23:13:15,Yes,Ishika,19,Female,163,60,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covaxin,"Headache, Muscle pain",4 days,No,NA,Non Smoker,I do not drink,I do not exercise,Bacame more self centered and started practicing goal oriented activities 
+9/30/2021 23:16:23,Yes,Jai Singh Rawat,20,Male,165,51,Delhi,Yes,2 weeks,No,NA,"Yes, both doses",Covishield,Fever,2 days,No,NA,Non Smoker,I do not drink,Daily,
+9/30/2021 23:18:20,Yes,Anushree Sudan,19,Female,160,61,Delhi,Yes,3 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue, Palpitations or Chest pain","Yes, 1st Dose",Covishield,"Fatigue, Headache",3 days,No,NA,Current Smoker,I do not drink,Alternate days,
+9/30/2021 23:19:01,Yes,Urvashi,20,Female,167,58,Delhi,No,,,,"Yes, both doses",Covishield,NA,NA,No,NA,Non Smoker,I do not drink,I do not exercise,
+9/30/2021 23:19:15,Yes,Yash Sharma,20,Male,166,60,Delhi,No,,,,"Yes, both doses",Sputnik V,No,NA,No,NA,Non Smoker,I do not drink,Daily,Nothing
+9/30/2021 23:21:56,Yes,Saksham,17,Male,175,95,Delhi,Yes,2 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue, Hair loss",No,NA,NA,NA,No,NA,Non Smoker,I do not drink,Alternate days,Laziness and i started sleeping nd eating more nd more and i am following same thing now also which I don't want
+9/30/2021 23:24:09,Yes,Prince Shukla,18,Male,191,60,Delhi,No,,,,No,NA,NA,NA,No,NA,Non Smoker,I do not drink,Daily,
+9/30/2021 23:37:42,Yes,Aditya Kala,17,Male,190,81,Delhi,Yes,3 weeks,Yes,"Tiredness or fatigue, Hair loss, Taste and smelling problem",No,NA,NA,NA,No,NA,Non Smoker,I do not drink,Alternate days,
+9/30/2021 23:40:36,Yes,Tejal Deswal,20,Female,163,77,Delhi,Yes,3 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue, Hair loss, Anxiety ","Yes, both doses",Covaxin,No,1 day,No,NA,Non Smoker,Occassionally,Alternate days,I started meditation 
+9/30/2021 23:46:23,Yes,Taruna Arora ,18,Female,145,55,Delhi,No,,,,"Yes, both doses",Covishield,Fever,2 days,No,NA,Non Smoker,I do not drink,I do not exercise,Nthingg
+10/1/2021 0:09:43,Yes,Suraj Singh,21,Male,180,65,Uttar Pradesh,Yes,3 weeks,Yes,"Difficulty breathing or shortness of breath, Tiredness or fatigue","Yes, 1st Dose",Covishield,"Fever, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Alternate days,
+10/1/2021 5:55:22,Yes,Akash,20,Male,190,82,Delhi,No,,,,"Yes, both doses",Covaxin,Fatigue,1 day,No,NA,Current Smoker,Occassionally,Daily,
+10/1/2021 8:41:02,Yes,Ira Srivastava ,19,Female,150,56,Maharashtra,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+10/1/2021 10:15:40,Yes,Vandit,17,Male,174,100,Delhi,No,,,,"Yes, both doses",Covishield,NA,NA,No,NA,Non Smoker,I do not drink,Daily,
+10/1/2021 10:26:41,Yes,Aayushi ,19,Female,165.1,47,Delhi,No,,,,"Yes, both doses",Covishield,Fever,3 days,No,NA,Non Smoker,I do not drink,Alternate days,Daily exercise 
+10/1/2021 16:56:23,Yes,Dhruv dua,18,Male,178,69,Delhi,No,,,,"Yes, 1st Dose",Covishield,Fever,1 day,No,NA,Non Smoker,I do not drink,Daily,"Fitness was at hault 
+Schedule was lethargic"
+10/4/2021 19:04:10,Yes,bhavya,18,Female,168,57,Karnataka,No,,,,"Yes, both doses",Covaxin,Muscle pain,2 days,No,NA,Non Smoker,I do not drink,Alternate days,"more exercise and better 
+diet"
+10/6/2021 12:05:42,Yes,Rishabh Singh,18,Male,182,68,Delhi,No,,,,"Yes, both doses",Covaxin,"Fever, Fatigue, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Once a week,
+10/6/2021 12:09:55,Yes,Manish Kumar ,19,Male,176,66,Uttar Pradesh,No,,,,"Yes, 1st Dose",Covishield,"Fever, Headache",1 day,No,NA,Non Smoker,I do not drink,Once a week,"Disturbance in Daily routine, lack of concentration in study."
+10/6/2021 12:11:40,Yes,Sanjog Pahwa ,18,Male,178,52,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Daily,"Earlier I was careless about my health. After seeing the pandemic I joined yoga classes for improving the immunity , flexibility and stamina of my body.Revised my sleep cycle and I try to wake up in the rising sun ..."
+10/6/2021 13:11:14,Yes,Sumit Kumar,20,Male,178,50,Jharkhand,Yes,1 week,Yes,Difficulty breathing or shortness of breath,"Yes, both doses",Covaxin,Fatigue,1 day,No,NA,Non Smoker,I do not drink,I do not exercise,
+10/6/2021 13:32:04,Yes,Saloni Dangwal ,20,Female,160,63,Delhi,No,,,,"Yes, both doses",Covaxin,Muscle pain,more than 5 days,No,NA,Non Smoker,I do not drink,Alternate days,
+10/6/2021 13:35:56,Yes,Aviral Agrawal,19,Male,177,79,Delhi,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache",1 day,No,NA,Non Smoker,I do not drink,Alternate days,Started going to the gym. Started eating healthier. Worked on better mental health. Lost 15 kgs. Started being more productive at studies and in general. 
+10/6/2021 13:55:29,Yes,Aastha,20,Female,151,45,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Fatigue, Headache",2 days,No,NA,Non Smoker,I do not drink,Once a week,
+10/6/2021 14:09:27,Yes,Devyani,20,Female,154,50,Uttar Pradesh,No,,,,"Yes, both doses",Covishield,"Fever, Headache",2 days,No,NA,Non Smoker,I do not drink,I do not exercise,
+10/6/2021 23:00:56,Yes,Devraj Singh,20,Male,194,110,Rajasthan,No,,,,"Yes, both doses",Covishield,No,NA,No,NA,Non Smoker,I do not drink,Once a week,
+10/7/2021 9:42:00,Yes,Aryan,20,Male,164,54,Bihar,No,,,,"Yes, both doses",Covishield,"Fever, Muscle pain",2 days,No,NA,Non Smoker,I do not drink,Once a week,
+10/7/2021 15:21:48,Yes,Janvi,19,Female,170,53,Delhi,No,,,,"Yes, both doses",Covishield,Muscle pain,4 days,No,NA,Non Smoker,I do not drink,Daily,"I started meditation, yoga, journaling, and healthy diet."
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,s,,,,,,,,,,,,,,,
